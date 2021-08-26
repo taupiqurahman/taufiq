@@ -2,6 +2,6 @@ Resolusi github
 - Konsisten dalam belajar git
 - Belajar konsep laravel
 - Membuat portofolio web developer
-- Belajar terus
 - API
-- Javascript
+- CSS
+
