@@ -1,2 +1,2 @@
 # taufiq
-Repository untuk menyimpan kedepannya
+Repository untuk menyimpan file coding kedepannya
