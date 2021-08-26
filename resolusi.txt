@@ -1,4 +1,5 @@
 Resolusi github
 - Konsisten dalam belajar git
 - Belajar konsep laravel
-- Membuat portofolio
+- Membuat portofolio web developer
+- Belajar terus
